@@ -1,6 +1,8 @@
-<style>
             h1{
-                color:aquamarine}
+                color:olive;
+                text-align: center;
+                
+            }
             img{
                 width:400px
             }  
@@ -10,9 +12,17 @@
                 background-color: darkolivegreen;
                 padding: 50px;
                 border: 20px solid black;
+                margin: auto;
+
+            }
+            .divClass{
+                text-align: center;
+                font-size: 45px;
+                font-style: oblique;
             }
             #spanId{
-                font-size: 18px;
+                font-size: 30px;
                 margin: 50px;
+                
             }
-        </style>
+       
